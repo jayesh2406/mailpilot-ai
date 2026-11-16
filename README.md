@@ -2,6 +2,10 @@
 
 MailPilot is a responsive personal assistant inbox prototype. It starts in offline demo mode and uses realistic sample email data. The main user flows do not require Google OAuth, MongoDB, or paid AI credentials.
 
+## Live demo
+
+[Open MailPilot AI](https://jayesh2406.github.io/mailpilot-ai/). The demo uses sample messages and simulated Gmail/Outlook connections; it does not connect to a real inbox.
+
 ## Run the prototype
 
 In one terminal, run the optional API:
